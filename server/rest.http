@@ -1,0 +1,12 @@
+GET http://localhost:8000/api/products
+
+###
+GET http://localhost:8000/api/products/679c9e30925e20a517015f3d
+
+###
+PUT http://localhost:8000/api/products/:679c8c0227e76e634c017d56/status
+Content-Type: application/json
+
+{
+    "status": true
+}
