@@ -155,7 +155,7 @@ The **Product Management System** is a comprehensive solution for managing produ
 4. Start the server:
     
 ```
-    npm start
+    npm run dev
 ```
     
 5. The API will be available at `http://localhost:8000`
